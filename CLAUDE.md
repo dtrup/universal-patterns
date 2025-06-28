@@ -54,3 +54,13 @@ When working on this project:
 - Track emerging connections between chapters
 - Focus on discovery journey rather than prescriptive frameworks
 - Each chapter should stand alone while contributing to the larger narrative
+
+## Commands
+- **feedback [chapter_number]**: Analyze feedback from feedback.md for the specified chapter, evaluate whether the feedback should be applied, and determine if it would improve the chapter overall. Review the feedback critically and provide recommendations on implementation.
+
+## Template Notes for Future Pattern Chapters (3-9)
+Based on feedback analysis, ensure pattern-specific chapters include:
+- **Dedicated "Physics Behind the Pattern" section**: Explicit physical principles creating that specific pattern
+- **Clear "Cross-Pattern Resonances" section**: How this pattern relates to other pattern families
+- **Expanded "When This Pattern Breaks" section**: Both human recognition failures AND systemic pathologies when the pattern fails in real systems
+- **"Synthesis" section**: Emergent insights and practical implications specific to the pattern
