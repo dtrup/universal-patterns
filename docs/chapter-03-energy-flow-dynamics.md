@@ -490,3 +490,5 @@ The next chapter will examine how these energy flows organize themselves into st
 Understanding energy patterns transforms us from passive observers of change to skillful participants in the energy flows that shape our world. We begin to see that every challenge involves questions of energy concentration, timing, and resource allocation. Every opportunity requires understanding how to align our actions with natural energy rhythms. Every creative project depends on coordinating multiple energy patterns across appropriate timescales.
 
 This energy literacy becomes increasingly essential as we navigate a world of accelerating change, increasing complexity, and evolving challenges that require both immediate responsiveness and long-term sustainability. The future belongs to those who understand how energy flows create and sustain the patterns that enable life, consciousness, and creativity to flourish.
+
+<script src="https://hypothes.is/embed.js" async></script>

@@ -49,6 +49,6 @@ Each pattern chapter includes:
 
 ## Note for GEMINI
 When working on this project:
-- Your task is to review upon request the chapter in the claude folder and provide feedback. 
+- Your task is to review upon request the chapter in the docs folder and provide feedback. 
 - This feedback is to be be comprehensive constructive even when there is room for critique.
 - The feedback is to be appended in feedback.md file that you will find at the root.

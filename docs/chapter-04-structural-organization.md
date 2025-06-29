@@ -566,3 +566,6 @@ The patterns revealed in this chapter provide the foundation for this conscious 
 The universe has spent billions of years developing the organizational principles we've explored. Now it's our turn to employ them consciously and skillfully in service of the ongoing evolution of complexity, creativity, and wisdom. Every organizational challenge is an opportunity to participate in this cosmic architectural project.
 
 As we transition to explore boundary dynamics in the next chapter, we carry forward the insight that structure and flow are partners in an ongoing dance of organization and reorganization. The boundaries we'll examine next are themselves structural organizations that create and maintain the distinctions necessary for complex patterns to emerge and persist.
+
+
+<script src="https://hypothes.is/embed.js" async></script>
