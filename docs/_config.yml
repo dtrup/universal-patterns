@@ -1,4 +1,23 @@
 title: Universal Patterns
-description: An exploration
-theme: jekyll-theme-minimal
-baseurl: "/universal-patterns" 
+description: Navigating Complexity - Universal Patterns Across Scales
+theme: jekyll-theme-cayman
+baseurl: "/universal-patterns"
+
+# Additional configuration for better presentation
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# Enhanced metadata
+author: "Universal Patterns Research"
+keywords: "patterns, complexity, systems thinking, emergence, organization"
+google_analytics: # Add your GA tracking ID if desired
+
+# Navigation and layout
+show_downloads: false
+github:
+  repository_url: https://github.com/dtrup/universal-patterns 
