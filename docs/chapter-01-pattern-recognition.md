@@ -162,3 +162,5 @@ Oscillatory mechanisms allow systems to explore the full range of possibilities 
 Buffering mechanisms help systems absorb shocks and variations without losing their essential pattern. Financial systems maintain reserves to buffer against economic fluctuations. Ecosystems maintain diversity to buffer against environmental changes. Personal resilience includes emotional and cognitive buffers against stress.
 
 Adaptive mechanisms allow systems to modify their navigation strategies as conditions change. Successful organizations adapt their balance between stability and innovation as markets evolve. Healthy individuals adapt their balance between challenge and recovery as they age. Scientific paradigms adapt their balance between theoretical consistency and empirical accuracy as new evidence accumulates.
+
+<script src="https://hypothes.is/embed.js" async></script>
