@@ -14,6 +14,9 @@ A deep exploration of fundamental patterns that appear across all scales of real
 - [Chapter 3: Energy & Flow Dynamics - The Currency of Change](chapter-03-energy-flow-dynamics.md)
 - [Chapter 4: Structural Organization - How Form Emerges](chapter-04-structural-organization.md)
 
+### Addenda
+- [Appendix 1: The Pattern Recognition Spectrum - A Comprehensive Taxonomy](addenda/Appendix1-pattern-spectrum.md)
+
 ## About This Project
 
 This book explores the sophisticated patterns that operate across all scales of reality—from quantum mechanics to cosmic evolution, from cellular biology to social dynamics. Each pattern represents a fundamental organizing principle that transcends specific domains while manifesting through countless different materials and contexts.

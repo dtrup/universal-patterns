@@ -479,3 +479,5 @@ As we conclude our exploration of the five scales of reality, several key insigh
 With this understanding of how patterns manifest across scales, we're ready to explore the seven universal pattern families that operate within and across all these scales. Each family represents a fundamental aspect of how the universe organizes itself, creating the endless creativity and complexity we observe in everything from quantum fields to human consciousness to galactic structures.
 
 The journey ahead will reveal how these pattern families interact to create the magnificent symphony of existence we experience every day. More importantly, it will develop your capacity to recognize these patterns in your own life and to participate more skillfully in their ongoing evolution.
+
+<script src="https://hypothes.is/embed.js" async></script>
