@@ -14,6 +14,8 @@ A deep exploration of fundamental patterns that appear across all scales of real
 - [Chapter 3: Energy & Flow Dynamics - The Currency of Change](chapter-03-energy-flow-dynamics.md)
 - [Chapter 4: Structural Organization - How Form Emerges](chapter-04-structural-organization.md)
 - [Chapter 5: Boundary Dynamics - The Membranes of Identity](chapter-05-boundary-dynamics.md)
+- [Chapter 6: Change & Persistence - The River and the Rock](chapter-06-change-persistence.md)
+- [Chapter 7: Complexity Dynamics - When More Is Different](chapter-07-complexity-dynamics.md)
 
 ### Appendices
 - [Appendix 1: The Pattern Recognition Spectrum - A Comprehensive Taxonomy](addenda/Appendix1-pattern-spectrum.md)
