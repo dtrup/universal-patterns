@@ -561,3 +561,4 @@ We live within that murmuration. Every day, we participate in the emergence of t
 The complexity patterns reveal that we inhabit a creative universe—one that continuously generates novelty, solves problems, and transcends its current limitations through the orchestrated dance of order and chaos, simplicity and complexity, linear responses and nonlinear surprises. Our role is not to control this creativity but to participate in it wisely, helping to create conditions where the most beneficial possibilities can emerge.
 
 ---
+<script src="https://hypothes.is/embed.js" async></script>

@@ -16,6 +16,7 @@ A deep exploration of fundamental patterns that appear across all scales of real
 - [Chapter 5: Boundary Dynamics - The Membranes of Identity](chapter-05-boundary-dynamics.md)
 - [Chapter 6: Change & Persistence - The River and the Rock](chapter-06-change-persistence.md)
 - [Chapter 7: Complexity Dynamics - When More Is Different](chapter-07-complexity-dynamics.md)
+- [Chapter 8: Interaction Dynamics - The Dance of Relationship](chapter-08-interaction-dynamics.md)
 
 ### Appendices
 - [Appendix 1: The Pattern Recognition Spectrum - A Comprehensive Taxonomy](addenda/Appendix1-pattern-spectrum.md)
