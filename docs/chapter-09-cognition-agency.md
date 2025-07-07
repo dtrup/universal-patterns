@@ -675,3 +675,4 @@ The patterns of purpose we've discovered show us that intelligence is not myster
 The cognitive operating system we've mapped provides the foundation for the next phase of our journey through universal patterns: understanding how these individual cognitive capabilities combine to create the complex collective behaviors that shape societies, ecosystems, and the future trajectory of intelligence itself.
 
 ---
+<script src="https://hypothes.is/embed.js" async></script>
