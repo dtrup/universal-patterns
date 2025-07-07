@@ -17,6 +17,10 @@ A deep exploration of fundamental patterns that appear across all scales of real
 - [Chapter 6: Change & Persistence - The River and the Rock](chapter-06-change-persistence.md)
 - [Chapter 7: Complexity Dynamics - When More Is Different](chapter-07-complexity-dynamics.md)
 - [Chapter 8: Interaction Dynamics - The Dance of Relationship](chapter-08-interaction-dynamics.md)
+- [Chapter 9: Cognition & Agency - The Patterns of Purpose](chapter-09-cognition-agency.md)
+
+### Part III: Pattern Dynamics in Practice
+- [Chapter 10: The Meta-Patterns - What Emerges from Our Journey](chapter-10-meta-patterns.md)
 
 ### Appendices
 - [Appendix 1: The Pattern Recognition Spectrum - A Comprehensive Taxonomy](addenda/Appendix1-pattern-spectrum.md)
